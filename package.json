@@ -2,7 +2,8 @@
   "name": "helloworld",
   "dependencies": {
     "egg": "^1.10.1",
-    "egg-bin": "^4.7.0"
+    "egg-bin": "^4.7.0",
+    "egg-mongoose": "^2.2.1"
   },
   "devDependencies": {
     "egg-mock": "^3.13.1"
